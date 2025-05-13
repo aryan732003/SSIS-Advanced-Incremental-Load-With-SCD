@@ -41,8 +41,8 @@ Welcome to **Project 2** of my SSIS Learning Series! This project dives into bui
 
 ## Screenshots and Diagrams
 
-![SCD Diagram](screenshots/SCDDiagram.png)
-![ETL Flow](screenshots/ETLFlow.png)
+![SCD Diagram](screenshots/IncrementalLoad.png)
+![ETL Flow](screenshots/DataFlow.png)
 
 ## Files:
 - **SSIS_Package**: Contains the SSIS package file (`.dtsx`) used for the project.
